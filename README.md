@@ -36,4 +36,11 @@ Como o código é contido em um único arquivo, você pode rodá-lo facilmente:
 3. Escolha a linguagem **C**, cole o código e execute!
 
 ---
-Desenvolvido por Felipe @bichodamadruga 🚀
+---
+
+## 🛠️ Ferramentas Utilizadas
+- **Linguagem C** (Compilador GCC / OnlineGDB)
+- **Git & GitHub** (Versionamento de código)
+- **Gemini AI** (Utilizado como copiloto para refinamento da lógica, correção de bugs e documentação)
+  
+Desenvolvido por **Felipe** — [@bichodamadruga](https://github.com/bichodamadruga) 🚀
